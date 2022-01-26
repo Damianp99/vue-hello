@@ -13,6 +13,5 @@ const helloWorld = new Vue({
     data: {
         message: "Hello dear soon to be Dev , i'm Vuejs one of your dearest friends",
         mediaPic: 'coding.jpg',
-
     },
 });
